@@ -1,0 +1,875 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 1967 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(AI CODE AGENTS: EVALUATION AND CONTROLLED ADOPTION POC PLAN) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Prepared on April 22, 2026) Tj
+T*
+() Tj
+T*
+(1. PURPOSE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Evaluate and demonstrate how AI Code Agents can improve software delivery productivity and) Tj
+T*
+(quality while preserving enterprise controls for security, governance, compliance, and cost.) Tj
+T*
+() Tj
+T*
+(2. EXECUTIVE SUMMARY) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(This proof of concept should be positioned as a controlled, low-cost developer workflow demo) Tj
+T*
+(using tools you already have: VS Code plus Codex. The live story should show three things:) Tj
+T*
+() Tj
+T*
+(1. Codex can work inside a real developer workflow from the IDE.) Tj
+T*
+(2. Codex can connect to MCP-style tools and external systems in a controlled way.) Tj
+T*
+(3. Codex can reduce delivery friction by speeding up common tasks such as code changes,) Tj
+T*
+(review preparation, validation, and deployment packaging.) Tj
+T*
+() Tj
+T*
+(The cleanest free demo is:) Tj
+T*
+() Tj
+T*
+(- Start with a tiny sample app.) Tj
+T*
+(- Ask Codex to make a scoped change.) Tj
+T*
+(- Use MCP or local tools to inspect docs, files, or repo context.) Tj
+T*
+(- Package the app with Docker.) Tj
+T*
+(- Generate a PR-ready summary, risk list, and test notes.) Tj
+T*
+(- Show before/after cycle-time evidence using a stopwatch and a simple metrics sheet.) Tj
+T*
+() Tj
+T*
+(3. POC GOAL) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Prove that AI Code Agents can be adopted safely in a controlled enterprise model before any) Tj
+T*
+(broad rollout.) Tj
+T*
+() Tj
+T*
+(4. SUCCESS CRITERIA) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(PRODUCTIVITY) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Reduce time to complete a small feature or bug-fix task by 30 to 50 percent versus a) Tj
+T*
+(manual baseline.) Tj
+T*
+(- Reduce PR preparation time by 40 percent or more.) Tj
+T*
+(- Reduce time spent writing PR descriptions, test notes, and deployment instructions by 60) Tj
+T*
+(percent or more.) Tj
+T*
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 18 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Length 1665 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+() Tj
+T*
+(DEVELOPER EXPERIENCE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Developers rate the workflow at 4 out of 5 or better for ease of use.) Tj
+T*
+(- Developers can complete the full demo flow inside VS Code with limited context switching.) Tj
+T*
+() Tj
+T*
+(COST EFFICIENCY) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Additional POC spend is zero or near-zero beyond existing access to Codex and local) Tj
+T*
+(tooling.) Tj
+T*
+(- Every demo step has a measurable unit cost or can be estimated by task duration and token) Tj
+T*
+(consumption where applicable.) Tj
+T*
+() Tj
+T*
+(5. RECOMMENDED FREE POC SCOPE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Use a very small application that is easy to understand in a live demo, such as:) Tj
+T*
+() Tj
+T*
+(- A Python Flask or FastAPI hello-world service.) Tj
+T*
+(- A simple Node.js API.) Tj
+T*
+(- A static web app with one backend endpoint.) Tj
+T*
+() Tj
+T*
+(Recommended scenario:) Tj
+T*
+() Tj
+T*
+("Take a tiny app, add one business change, containerize it, produce review artifacts, and) Tj
+T*
+(show the deploy path.") Tj
+T*
+() Tj
+T*
+(This is small enough to run live, but broad enough to demonstrate engineering value.) Tj
+T*
+() Tj
+T*
+(6. WHAT TO DEMONSTRATE LIVE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(DEMO 1: ASSISTED CHANGE DELIVERY IN VS CODE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Show Codex performing:) Tj
+T*
+() Tj
+T*
+(- Codebase discovery.) Tj
+T*
+(- Scoped code edits.) Tj
+T*
+(- Basic validation or tests.) Tj
+T*
+(- PR summary generation.) Tj
+T*
+(- Review notes with risks and assumptions.) Tj
+T*
+() Tj
+T*
+(Expected message to stakeholders:) Tj
+T*
+() Tj
+T*
+("The agent is not replacing engineering judgment. It is compressing the mechanical parts of) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 18 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 1547 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(delivery.") Tj
+T*
+() Tj
+T*
+(DEMO 2: MCP TOOL CONNECTIVITY) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Show Codex connected to one or more MCP-compatible tools, such as:) Tj
+T*
+() Tj
+T*
+(- OpenAI developer docs or internal knowledge retrieval.) Tj
+T*
+(- GitHub or repo metadata.) Tj
+T*
+(- Local shell and file operations.) Tj
+T*
+(- Ticketing or backlog context if an MCP tool exists in your environment.) Tj
+T*
+() Tj
+T*
+(What to emphasize:) Tj
+T*
+() Tj
+T*
+(- Tool access is explicit and inspectable.) Tj
+T*
+(- The agent can be constrained to approved tools.) Tj
+T*
+(- This supports governance and auditability.) Tj
+T*
+() Tj
+T*
+(DEMO 3: PACKAGING AND DEPLOYMENT) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Show Codex creating:) Tj
+T*
+() Tj
+T*
+(- A `Dockerfile`.) Tj
+T*
+(- A `.dockerignore`.) Tj
+T*
+(- Local run instructions.) Tj
+T*
+(- Optional GitHub workflow or release notes draft.) Tj
+T*
+() Tj
+T*
+(Because `docker` and `git` are not installed on this machine right now, treat this as) Tj
+T*
+(either:) Tj
+T*
+() Tj
+T*
+(- a narrated demo artifact generation step, or) Tj
+T*
+(- a live run on a machine that has Docker Desktop and Git installed.) Tj
+T*
+() Tj
+T*
+(DEMO 4: PR LIFECYCLE REDUCTION) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Compare two flows for the same change:) Tj
+T*
+() Tj
+T*
+(- Manual flow.) Tj
+T*
+(- Codex-assisted flow.) Tj
+T*
+() Tj
+T*
+(Measure:) Tj
+T*
+() Tj
+T*
+(- Time to understand the task.) Tj
+T*
+(- Time to implement the change.) Tj
+T*
+(- Time to write tests or validation steps.) Tj
+T*
+(- Time to prepare PR description and reviewer notes.) Tj
+T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 18 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1546 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(- Time to produce deployment instructions.) Tj
+T*
+() Tj
+T*
+(7. SUGGESTED END-TO-END DEMO SCRIPT) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(STEP 1: BASELINE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Start stopwatch.) Tj
+T*
+(- Open the sample app.) Tj
+T*
+(- Read the task statement.) Tj
+T*
+(- Record estimated manual time for discovery, coding, test notes, and PR prep.) Tj
+T*
+() Tj
+T*
+(STEP 2: ASK CODEX TO EXECUTE THE CHANGE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Example task:) Tj
+T*
+() Tj
+T*
+("Add a `/health` endpoint, update the landing page text, add a Dockerfile, and prepare a PR) Tj
+T*
+(summary with risks and test notes.") Tj
+T*
+() Tj
+T*
+(STEP 3: SHOW TOOL USE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Let Codex inspect files and generate the change.) Tj
+T*
+(- Show a connected MCP tool for docs or repo context.) Tj
+T*
+(- Highlight that the agent uses approved tools instead of unconstrained external access.) Tj
+T*
+() Tj
+T*
+(STEP 4: SHOW REVIEW READINESS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Display generated diff.) Tj
+T*
+(- Display generated PR summary.) Tj
+T*
+(- Display generated validation checklist.) Tj
+T*
+(- Display rollback or risk notes.) Tj
+T*
+() Tj
+T*
+(STEP 5: SHOW DEPLOYMENT READINESS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Show Docker artifacts.) Tj
+T*
+(- If available on another machine, run `docker build` and `docker run`.) Tj
+T*
+(- If GitHub is available, show how the same artifacts support PR creation and CI handoff.) Tj
+T*
+() Tj
+T*
+(STEP 6: CLOSE WITH METRICS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- Stop stopwatch.) Tj
+T*
+(- Compare baseline and assisted time.) Tj
+T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 18 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1832 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(- Record qualitative developer feedback.) Tj
+T*
+() Tj
+T*
+(8. FREE TOOLING STACK) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Use only free or already-available components:) Tj
+T*
+() Tj
+T*
+(- VS Code.) Tj
+T*
+(- Codex in the IDE.) Tj
+T*
+(- A local sample repo.) Tj
+T*
+(- Free MCP servers or local MCP tools.) Tj
+T*
+(- Docker Desktop Free only if your organization qualifies under Docker licensing terms. If) Tj
+T*
+(not, use Podman Desktop or narrate the packaging step.) Tj
+T*
+(- GitHub Free with a public demo repo, or a local-only Git workflow if public hosting is not) Tj
+T*
+(acceptable.) Tj
+T*
+(- Markdown plus PDF artifact generation for reporting.) Tj
+T*
+() Tj
+T*
+(Important caveat:) Tj
+T*
+() Tj
+T*
+(GitHub Free and Docker Desktop are not universally "absolutely free" for every enterprise) Tj
+T*
+(usage pattern. For a strict enterprise-free demo, keep the live run local and treat GitHub) Tj
+T*
+(or Docker cloud execution as optional visuals unless licensing is confirmed.) Tj
+T*
+() Tj
+T*
+(9. SECURITY, GOVERNANCE, AND COMPLIANCE CONTROLS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Frame the POC as "controlled adoption," not open experimentation.) Tj
+T*
+() Tj
+T*
+(Minimum controls:) Tj
+T*
+() Tj
+T*
+(- Approved repositories only.) Tj
+T*
+(- No production secrets in prompts.) Tj
+T*
+(- No regulated data in the demo.) Tj
+T*
+(- Tool allowlist for MCP access.) Tj
+T*
+(- Human review required before merge or deployment.) Tj
+T*
+(- Logging of prompts, outputs, and generated artifacts where policy permits.) Tj
+T*
+(- Standard secure coding checks still apply.) Tj
+T*
+(- Use sandboxed or local environments for execution.) Tj
+T*
+() Tj
+T*
+(10. OPERATING MODEL FOR THE PILOT) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(PARTICIPANTS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- 2 developers.) Tj
+T*
+(- 1 engineering manager or architect.) Tj
+T*
+(- 1 security reviewer.) Tj
+T*
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 18 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1379 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(- 1 platform or DevOps observer.) Tj
+T*
+() Tj
+T*
+(PILOT DURATION) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- 2 weeks.) Tj
+T*
+() Tj
+T*
+(SCOPE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- 3 to 5 representative tasks.) Tj
+T*
+(- 1 small service or application.) Tj
+T*
+(- 1 repo only.) Tj
+T*
+() Tj
+T*
+(GUARDRAILS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- No autonomous merge.) Tj
+T*
+(- No direct production deployment.) Tj
+T*
+(- No sensitive datasets.) Tj
+T*
+(- Manual approval for code and infrastructure changes.) Tj
+T*
+() Tj
+T*
+(11. MEASUREMENT FRAMEWORK) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Track each task in a simple sheet.) Tj
+T*
+() Tj
+T*
+(Columns:) Tj
+T*
+() Tj
+T*
+(- Task ID.) Tj
+T*
+(- Task type.) Tj
+T*
+(- Story points or complexity.) Tj
+T*
+(- Baseline manual estimate.) Tj
+T*
+(- Assisted elapsed time.) Tj
+T*
+(- Number of prompts.) Tj
+T*
+(- Approximate token usage or usage cost if available.) Tj
+T*
+(- Files changed.) Tj
+T*
+(- Review comments count.) Tj
+T*
+(- Rework count.) Tj
+T*
+(- Developer satisfaction score.) Tj
+T*
+() Tj
+T*
+(Primary KPI formulas:) Tj
+T*
+() Tj
+T*
+(- PR cycle-time reduction = `\(manual baseline - assisted time\) / manual baseline`) Tj
+T*
+(- Throughput improvement = `assisted tasks completed / baseline tasks completed`) Tj
+T*
+(- Cost per task = `tool cost + developer time cost`) Tj
+T*
+(- Review-prep reduction = `manual PR prep time - assisted PR prep time`) Tj
+T*
+() Tj
+T*
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 18 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2151 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+(12. EVIDENCE PACKAGE TO PRESENT) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(At the end of the POC, show:) Tj
+T*
+() Tj
+T*
+(- One short screen-recorded live demo.) Tj
+T*
+(- One before/after metrics table.) Tj
+T*
+(- One controls checklist.) Tj
+T*
+(- One architecture view of tools and approvals.) Tj
+T*
+(- One recommendation page: do not adopt, limited pilot, or scale gradually.) Tj
+T*
+() Tj
+T*
+(13. RECOMMENDED ENTERPRISE NARRATIVE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Use this message with stakeholders:) Tj
+T*
+() Tj
+T*
+("We are not evaluating whether AI can write code in isolation. We are evaluating whether a) Tj
+T*
+(controlled agent workflow can reduce low-value delivery effort, shorten PR preparation,) Tj
+T*
+(improve developer experience, and maintain enterprise controls.") Tj
+T*
+() Tj
+T*
+(14. SUGGESTED RECOMMENDATION PATH) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(If the POC succeeds:) Tj
+T*
+() Tj
+T*
+(- Phase 1: opt-in developer pilot for non-sensitive repos.) Tj
+T*
+(- Phase 2: controlled team rollout with managed configuration and approved MCP tools.) Tj
+T*
+(- Phase 3: integration with PR templates, CI evidence, and internal engineering standards.) Tj
+T*
+() Tj
+T*
+(If the POC does not succeed:) Tj
+T*
+() Tj
+T*
+(- Restrict use to documentation, code search, and PR summarization only.) Tj
+T*
+() Tj
+T*
+(15. WHAT YOU CAN SAY ABOUT OPENAI AND CODEX) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Based on official OpenAI developer documentation reviewed on April 22, 2026:) Tj
+T*
+() Tj
+T*
+(- OpenAI positions Codex as a coding agent used across app, IDE, CLI, web, GitHub, MCP, and) Tj
+T*
+(enterprise governance surfaces.) Tj
+T*
+(- OpenAI docs list Codex support for MCP, GitHub integrations, agent approvals and security,) Tj
+T*
+(and a GitHub Action in the product documentation and navigation.) Tj
+T*
+(- OpenAI also highlights Codex use cases such as "Review pull requests faster.") Tj
+T*
+(- OpenAI developer docs currently state that, for a limited time, Codex is included in) Tj
+T*
+(ChatGPT Free and Go, though this should be treated as time-sensitive and rechecked before) Tj
+T*
+(any formal presentation.) Tj
+T*
+() Tj
+T*
+(16. FINAL RECOMMENDATION FOR YOUR DEMO) Tj
+T*
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 18 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1347 >>
+stream
+BT
+/F1 10 Tf
+50 760 Td
+14 TL
+() Tj
+T*
+() Tj
+T*
+(Use a 10-minute demo with this structure:) Tj
+T*
+() Tj
+T*
+(1. State the governance problem.) Tj
+T*
+(2. Show the assisted delivery workflow in VS Code.) Tj
+T*
+(3. Show MCP tool connectivity.) Tj
+T*
+(4. Show Docker packaging artifact generation.) Tj
+T*
+(5. Show PR summary and review acceleration.) Tj
+T*
+(6. End with a one-slide metrics and control summary.) Tj
+T*
+() Tj
+T*
+(That is the smallest demo that still proves productivity, developer experience, cost) Tj
+T*
+(visibility, and governance.) Tj
+T*
+() Tj
+T*
+(17. SOURCE NOTES) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Official OpenAI sources consulted:) Tj
+T*
+() Tj
+T*
+(- OpenAI Developers homepage: https://developers.openai.com/) Tj
+T*
+(- Codex use cases: https://developers.openai.com/codex/use-cases) Tj
+T*
+(- Codex explore page: https://developers.openai.com/codex/explore/) Tj
+T*
+(- GPT-5.2-Codex model page: https://developers.openai.com/api/docs/models/gpt-5.2-codex) Tj
+T*
+(- GPT-5.1-Codex model page: https://developers.openai.com/api/docs/models/gpt-5.1-codex) Tj
+T*
+() Tj
+T*
+(18. ASSUMPTIONS) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(- You already have access to VS Code and Codex.) Tj
+T*
+(- The presentation goal is a small POC, not a production rollout.) Tj
+T*
+(- The requirement "absolutely free" means no new paid software purchase for the demo itself.) Tj
+T*
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 18 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 8 >>
+endobj
+19 0 obj
+<< /Type /Catalog /Pages 18 0 R >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000002098 00000 n 
+0000002225 00000 n 
+0000003942 00000 n 
+0000004069 00000 n 
+0000005668 00000 n 
+0000005795 00000 n 
+0000007393 00000 n 
+0000007520 00000 n 
+0000009405 00000 n 
+0000009534 00000 n 
+0000010966 00000 n 
+0000011095 00000 n 
+0000013299 00000 n 
+0000013428 00000 n 
+0000014828 00000 n 
+0000014957 00000 n 
+0000015061 00000 n 
+trailer
+<< /Size 20 /Root 19 0 R >>
+startxref
+15112
+%%EOF
