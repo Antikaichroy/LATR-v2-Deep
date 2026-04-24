@@ -46,7 +46,6 @@ Generated artifacts:
 
 ### End-to-End Visual
 
-![Real Sample Triptych](docs/samples/sample_pipeline_triptych.png)
 
 ### Individual Views
 
