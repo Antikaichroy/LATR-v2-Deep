@@ -221,7 +221,6 @@ Generated examples:
 
 End-to-end comparison:
 
-![Sample Pipeline](docs/samples/sample_pipeline_triptych.png)
 
 | Original | Degraded (LACN) | Restored (LATR-v2-Deep) |
 |---|---|---|
