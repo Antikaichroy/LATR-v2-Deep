@@ -1,0 +1,31 @@
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Local datasets / generated corpora
+Books-Bengali/
+Books-Bengali-Noisy/
+Books-Bengali-Noisy-*/
+Books-Bengali-Denoised-*/
+
+# Local logs and runtime outputs
+*.log
+*.err.log
+*.out.log
+
+# Local noise metadata artifacts (generated)
+noise_manifest.csv
+run_summary.json
+denoise_manifest.csv
+denoise_summary.json
+
+# Unrelated planning artifacts
+ai-code-agents-poc-plan.md
+ai-code-agents-poc-plan.pdf
+
