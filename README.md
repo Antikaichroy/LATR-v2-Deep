@@ -7,8 +7,6 @@ Document degradation and restoration framework for Bengali PDFs with a research-
 
 ---
 
-## Package Stack (Clickable)
-
 [![PyMuPDF](https://img.shields.io/badge/PyMuPDF-Docs-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white)](https://pymupdf.readthedocs.io/en/latest/)
 [![Pillow](https://img.shields.io/badge/Pillow-Docs-0F766E?style=for-the-badge&logo=python&logoColor=white)](https://pillow.readthedocs.io/en/stable/)
 [![NumPy](https://img.shields.io/badge/NumPy-Docs-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
