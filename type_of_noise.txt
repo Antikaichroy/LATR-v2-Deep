@@ -1,0 +1,63 @@
+[skip] 21-february-by-zahir-raihan.pdf -> 21-february-by-zahir-raihan__noisy.pdf
+[2/62] 25ti-sera-bhoot-by-shirshendu-mukhopadhyay.pdf: scan_geometry, sensor_compression, uneven_illumination, paper_texture, occlusion_damage
+[3/62] 4-50-from-paddington-by-agatha-christie.pdf: ink_bleed_fade, scan_geometry, sensor_compression, uneven_illumination, paper_texture, occlusion_damage
+[4/62] a-b-c-murder-by-agatha-christie.pdf: sensor_compression, ink_bleed_fade, occlusion_damage, uneven_illumination
+[5/62] a-bright-summer-morning-by-james-hadley-chase.pdf: scan_geometry, ink_bleed_fade, occlusion_damage, paper_texture, uneven_illumination, sensor_compression
+[6/62] a-coffin-from-hong-kong-by-james-hadley-chase.pdf: occlusion_damage, ink_bleed_fade, sensor_compression, uneven_illumination
+[7/62] a-drama-in-livonia-by-jules-verne-omnibus.pdf: sensor_compression, paper_texture, scan_geometry, uneven_illumination, occlusion_damage, ink_bleed_fade
+[8/62] a-dream-of-armageddon-by-h-g-wells.pdf: ink_bleed_fade, sensor_compression, paper_texture, uneven_illumination, occlusion_damage
+[9/62] a-holiday-for-murder-by-agatha-christie.pdf: ink_bleed_fade, scan_geometry, paper_texture, occlusion_damage
+[10/62] a-hor-in-the-eden-by-james-hadley-chase.pdf: uneven_illumination, paper_texture, sensor_compression, ink_bleed_fade, scan_geometry, occlusion_damage
+[11/62] a-midsummer-nights-dream-by-william-shakespeare.pdf: uneven_illumination, paper_texture, scan_geometry, occlusion_damage, ink_bleed_fade, sensor_compression
+[12/62] a-murder-in-west-by-james-hadley-chase.pdf: occlusion_damage, uneven_illumination, paper_texture, sensor_compression, scan_geometry, ink_bleed_fade
+[13/62] a-murder-is-announced-by-agatha-christie.pdf: ink_bleed_fade, occlusion_damage, uneven_illumination, scan_geometry, sensor_compression, paper_texture
+[14/62] a-pocket-full-of-rye-by-agatha-christie.pdf: sensor_compression, occlusion_damage, uneven_illumination, ink_bleed_fade
+[15/62] a-study-in-scarlet-by-arthur-conan-doyle.pdf: occlusion_damage, paper_texture, scan_geometry, sensor_compression, ink_bleed_fade
+[16/62] aakash-batas-o-trisna-by-abhik-dutta.pdf: occlusion_damage, scan_geometry, paper_texture, ink_bleed_fade, uneven_illumination
+[17/62] aar-koto-din-by-zahir-raihan.pdf: occlusion_damage, uneven_illumination, sensor_compression, paper_texture
+[18/62] aar-ranga-by-nirendranath-chakravarty.pdf: sensor_compression, paper_texture, occlusion_damage, scan_geometry, ink_bleed_fade, uneven_illumination
+[19/62] abaro-tuntuni-o-abaro-chotacchu-by-muhammed-zafar-iqbal.pdf: occlusion_damage, paper_texture, sensor_compression, scan_geometry
+[20/62] abarth-lokhaved.pdf: paper_texture, occlusion_damage, ink_bleed_fade, sensor_compression, uneven_illumination, scan_geometry
+[21/62] abhijan-sukanta-bhattacharya.pdf: sensor_compression, uneven_illumination, ink_bleed_fade, scan_geometry, occlusion_damage, paper_texture
+[22/62] abochetona-by-anish-deb.pdf: scan_geometry, ink_bleed_fade, uneven_illumination, sensor_compression, occlusion_damage
+[23/62] achintya-purnima-by-syed-shamsul-haque.pdf: occlusion_damage, sensor_compression, paper_texture, scan_geometry, ink_bleed_fade
+[24/62] adarsha-hindu-hote.pdf: uneven_illumination, occlusion_damage, sensor_compression, ink_bleed_fade, paper_texture, scan_geometry
+[25/62] after-the-funeral-by-agatha-christie.pdf: paper_texture, uneven_illumination, occlusion_damage, scan_geometry
+[26/62] agun-niye-khela-by-annada-shankar-ray.pdf: uneven_illumination, sensor_compression, occlusion_damage, ink_bleed_fade, scan_geometry
+[27/62] ai-greh-ai-sannash-by-mahadev-saha.pdf: scan_geometry, sensor_compression, paper_texture, occlusion_damage, ink_bleed_fade
+[28/62] aj-sokale-by-nirendranath-chakravarty.pdf: scan_geometry, occlusion_damage, ink_bleed_fade, sensor_compression, uneven_illumination, paper_texture
+[29/62] akhi-abong-amra-kojon-by-muhammed-zafar-iqbal.pdf: paper_texture, occlusion_damage, ink_bleed_fade, sensor_compression, scan_geometry
+[30/62] akti-bagher-kotha-by-muhammed-zafar-iqbal.pdf: occlusion_damage, ink_bleed_fade, uneven_illumination, scan_geometry
+[31/62] akti-durghotonar-golpo-by-abhik-dutta.pdf: scan_geometry, ink_bleed_fade, paper_texture, occlusion_damage, uneven_illumination
+[32/62] alatachakra-by-ahmed-sofa.pdf: occlusion_damage, uneven_illumination, sensor_compression, scan_geometry, paper_texture
+[33/62] alatchakra.pdf: uneven_illumination, paper_texture, sensor_compression, scan_geometry, occlusion_damage
+[34/62] alls-well-that-ends-well-by-william-shakespeare.pdf: occlusion_damage, ink_bleed_fade, uneven_illumination, scan_geometry, paper_texture, sensor_compression
+[35/62] alone-in-night-by-james-hadley-chase.pdf: uneven_illumination, scan_geometry, occlusion_damage, sensor_compression
+[36/62] alor-mayur-by-prafulla-roy.pdf: occlusion_damage, uneven_illumination, ink_bleed_fade, paper_texture, sensor_compression
+[37/62] amader-tumul-hoyhulla-by-purnendu-patri.pdf: ink_bleed_fade, occlusion_damage, scan_geometry, sensor_compression
+[38/62] amar-bondhu-rashed-by-muhammed-zafar-iqbal.pdf: occlusion_damage, uneven_illumination, sensor_compression, paper_texture, scan_geometry
+[39/62] amar-dangerous-mami-by-muhammed-zafar-iqbal.pdf: sensor_compression, scan_geometry, occlusion_damage, paper_texture, ink_bleed_fade
+[40/62] amar-meyebela-by-taslima-nasrin.pdf: uneven_illumination, occlusion_damage, sensor_compression, ink_bleed_fade
+[41/62] amazoner-gahone-by-ajay-roy.pdf: ink_bleed_fade, sensor_compression, uneven_illumination, scan_geometry, occlusion_damage
+[42/62] american-sangbadpatrer-report-by-swami-vivekananda.pdf: paper_texture, occlusion_damage, scan_geometry, uneven_illumination, sensor_compression, ink_bleed_fade
+[43/62] ami-chinnovinno-by-mahadev-saha.pdf: occlusion_damage, ink_bleed_fade, sensor_compression, scan_geometry, uneven_illumination
+[44/62] ami-topu-by-muhammed-zafar-iqbal.pdf: uneven_illumination, occlusion_damage, paper_texture, scan_geometry
+[45/62] amie-koch-amie-debjani-by-purnendu-patri.pdf: occlusion_damage, paper_texture, uneven_illumination, ink_bleed_fade, scan_geometry, sensor_compression
+[46/62] amul-bodle-daoo-amar-jibon-by-mahadev-saha.pdf: occlusion_damage, ink_bleed_fade, paper_texture, uneven_illumination
+[47/62] and-then-there-was-none-by-agatha-christie.pdf: ink_bleed_fade, paper_texture, scan_geometry, uneven_illumination, occlusion_damage, sensor_compression
+[48/62] andhokarer-agontuk.pdf: paper_texture, uneven_illumination, sensor_compression, ink_bleed_fade, occlusion_damage, scan_geometry
+[49/62] anubad-kobita-by-swami-vivekananda.pdf: uneven_illumination, scan_geometry, occlusion_damage, sensor_compression, ink_bleed_fade
+[50/62] anupam-din-by-syed-shamsul-haque.pdf: paper_texture, sensor_compression, occlusion_damage, ink_bleed_fade, uneven_illumination
+[51/62] anusthanik-sangeet-by-rabindranath-tagore.pdf: paper_texture, ink_bleed_fade, occlusion_damage, scan_geometry
+[52/62] aparajito-bibhutibhushan-bandyopadhyay.pdf: scan_geometry, sensor_compression, ink_bleed_fade, uneven_illumination, paper_texture, occlusion_damage
+[53/62] aranyak-bibhutibhushan-bandyopadhyay.pdf: uneven_illumination, sensor_compression, paper_texture, occlusion_damage, ink_bleed_fade
+[54/62] arek-falgun-by-zahir-raihan.pdf: sensor_compression, paper_texture, occlusion_damage, ink_bleed_fade, scan_geometry, uneven_illumination
+[55/62] aro-tuntuni-o-aro-chotacchu-by-muhammed-zafar-iqbal.pdf: occlusion_damage, ink_bleed_fade, uneven_illumination, scan_geometry
+[56/62] arogya-niketan-by-tarasankar-bandyopadhyay.pdf: paper_texture, sensor_compression, uneven_illumination, ink_bleed_fade, occlusion_damage, scan_geometry
+[57/62] around-the-world-in-eighty-days-by-jules-verne-omnibus.pdf: sensor_compression, occlusion_damage, uneven_illumination, paper_texture
+[58/62] as-you-like-it-by-william-shakespeare.pdf: paper_texture, sensor_compression, ink_bleed_fade, occlusion_damage, uneven_illumination, scan_geometry
+[59/62] asajhya-suspense-samagra-part-1-by-adrish-bardhan.pdf: sensor_compression, occlusion_damage, scan_geometry, paper_texture, ink_bleed_fade
+[60/62] asajhya-suspense-samagra-part-2-by-adrish-bardhan.pdf: sensor_compression, occlusion_damage, ink_bleed_fade, paper_texture
+[61/62] asajhya-suspense-samagra-part-4-by-adrish-bardhan.pdf: scan_geometry, sensor_compression, uneven_illumination, ink_bleed_fade, occlusion_damage, paper_texture
+[62/62] asajhya-suspense-samagra-part-5-by-adrish-bardhan.pdf: ink_bleed_fade, paper_texture, sensor_compression, scan_geometry, uneven_illumination, occlusion_damage
+Wrote 62 manifest rows to Books-Bengali-Noisy\noise_manifest.csv

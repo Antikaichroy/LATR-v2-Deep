@@ -1,0 +1,12 @@
+# Core
+pymupdf
+pillow
+numpy
+
+# Deep learning stack (recommended for LATR_v2_deep)
+torch
+
+# Optional SOTA backends (enable via CLI flags)
+diffusers
+transformers
+doclayout-yolo
